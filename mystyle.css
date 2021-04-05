@@ -8,9 +8,12 @@ body {
     }
 
 #header {
-    margin-top: 20px;
+    /*margin-top: 20px;*/
+    margin-top: 5%;
     margin-left: 30%;
     margin-right: 30%;
+    font-family: Sans-Serif;
+    font-weight: bold;
 }
 
 #header img {
@@ -89,8 +92,8 @@ a.simple:link, a.simple:visited, a.simple:active, a.simple:hover  {
 }
             
 #content {
-    margin-left: 30%;
-    margin-right: 30%
+    margin-left: 25%;
+    margin-right: 25%
 }
 
 .innertube {
@@ -105,6 +108,8 @@ a.simple:link, a.simple:visited, a.simple:active, a.simple:hover  {
 p, li {
     color: #555;
     text-align: justify;
+    margin-bottom: 5px;
+    /*line-height: 1.5em;*/
 }
 
 
